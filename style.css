@@ -58,7 +58,7 @@
 }
 .img{
     animation: shrink 5s ease;
-    transition: 2s;
+    transition: 5s;
 }
 @keyframes shrink{
     0%{
@@ -181,3 +181,4 @@
     margin-right: 60px;
 
 } */
+
